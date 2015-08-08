@@ -65,6 +65,7 @@ class ConnectionPoolManager
  //Creating a connection
  private Connection createNewConnectionForPool()
  {
+ 
   Connection connection = null;
 
   try
